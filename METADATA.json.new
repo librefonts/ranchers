@@ -1,0 +1,24 @@
+{
+  "name": "Ranchers",
+  "designer": "Impallari Type",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 68762,
+  "fonts": [
+    {
+      "name": "Ranchers",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Ranchers-Regular.ttf",
+      "postScriptName": "Ranchers-Regular",
+      "fullName": "Ranchers",
+      "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Brenda Gallo. (gbrenda1987@gmail.com), with Reserved Font Name Ranchers."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-09-07"
+}
